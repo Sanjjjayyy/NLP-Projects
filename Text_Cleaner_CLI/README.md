@@ -14,8 +14,8 @@ A SImple Python-based command-line tool designed for Natural Language Processing
 # Installation
 ## 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/text-cleaner-cli.git
-cd text-cleaner-cli
+git clone https://github.com/Sanjjjayyy/NLP-Projects.git
+cd NLP-Projects/Text_Cleaner_CLI
 ```
 ## 2. Set up a Virtual Environment
 ```bash 
